@@ -27,3 +27,25 @@ file = open("ducat.txt", "r")
 print(file.read())
 file.close()
 
+
+# create mode(x)
+# ---create a new file
+file = open("newfile.txt","x")
+file.close()
+
+with open("newfile.txt","x") as file:
+    file.write("hello world")
+    
+
+#readlines()
+#read all lines and returns a list
+with open("newfile.txt", "r") as file:
+    lines = file.readlines()
+    print(lines)
+
+
+#close
+# file.close()
+file = open("newfile.txt", "r")
+print(file.read())
+file.close()
