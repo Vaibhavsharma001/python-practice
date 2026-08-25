@@ -17,7 +17,7 @@ class dog :
         print("dog barks")
         
 class cat:
-    def sounf(self):
+    def sound(self):
         print("cat meows")
         
         
