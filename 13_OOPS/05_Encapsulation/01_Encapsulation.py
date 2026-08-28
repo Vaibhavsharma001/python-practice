@@ -94,7 +94,7 @@ print(student.__name)
 # Code
 
 class Student:
-    def _init_(self, name, age):
+    def __init__(self, name, age):
         self.__name = name
         self.__age = age
 
@@ -114,3 +114,16 @@ student.set_name("paritosh")
 
 print(student.get_name())
 
+
+#------------------------------------------example ----------------------------------------
+class Student:
+    def __init__(self):
+        self.__marks = 80
+
+    def show_marks(self):
+        print(self.__marks)
+
+
+s = Student()
+
+s.show_marks()
