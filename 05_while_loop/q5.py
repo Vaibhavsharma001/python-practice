@@ -1,5 +1,7 @@
-# Reverse Each Word in a Sentence
-# Question: Write a program to reverse each word in the sentence "Hello World" using a while loop.
-# Expected Output: olleH dlroW
+# Write a program in Python to display the first 10 natural numbers.
 
-
+i = 1
+while i<=10:
+    print(i)
+    i+=1
+    
