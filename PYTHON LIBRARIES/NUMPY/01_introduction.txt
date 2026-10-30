@@ -1,0 +1,31 @@
+# What is NumPy? (NumPy Kya Hai?)
+# English
+
+# NumPy (Numerical Rython) is an open-source Python library used for numerical computing. It provides a powerful object called ndarray (N-dimensional)
+# Array that is much faster and more memory-efficient than Python lists.
+
+# NumPy is widely used in:
+
+# Data Science
+# Machine Learning
+# Artificial Intelligence
+# Deep Learning
+# Scientific Computing
+# Image Processing
+# Data Analysis
+# Hindi
+
+# NumPy (Numerical Python) Python की एक Open-Source Library है, जिसका उपयोग Numerical Calculations (गणितीय गणनाओं) के लिए किया जाता है।
+
+# NumPy का मुख्य उद्देश्य बड़े डेटा पर Fast Mathematical Operations करना है।
+
+# NumPy का सबसे महत्वपूर्ण Data Structure ndarray (N-dimensional Array) है।
+
+# NumPy का उपयोग किया जाता है:
+
+# Data Science
+# Machine Learning
+# Artificial Intelligence
+# Deep Learning
+# Scientific Research
+# Data Analysis

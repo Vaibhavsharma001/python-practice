@@ -1,0 +1,18 @@
+# Difference between List and NumPy Array
+# Python List NumPy Array
+
+
+                                        #[LIST]
+# Slow
+# More Memory
+# Mixed Data Types
+# Limited Math Operations
+# No Broadcasting
+
+
+                                       #[NUMPY ARRAY]
+# Fast
+# Less Memory
+# Mostly Same Data Type
+# Powerful Math OperatioN
+# Broadcasting Available
